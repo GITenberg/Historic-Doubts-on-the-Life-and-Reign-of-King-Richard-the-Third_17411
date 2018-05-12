@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/358
     wikipedia: http://en.wikipedia.org/wiki/Horace_Walpole%2C_4th_Earl_of_Orford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17411#Historic-Doubts-on-the-Life-and-Reign-of-King-Richard-the-Third
 gutenberg_issued: '2005-12-28'
 gutenberg_type: Text
 identifiers:
